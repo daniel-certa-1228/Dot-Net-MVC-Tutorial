@@ -38,6 +38,7 @@ namespace MvcMovie.Controllers
         //    return "From [HttpPost]Index: filter on " + searchString;
         //}
 
+
         // GET: Movies/Details/5
         public async Task<IActionResult> Details(int? id)
         {
